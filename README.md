@@ -38,7 +38,8 @@ We think that contributions/meetings should be held under Chatham House rules (o
 - facilitate a virtual quaterly meetup where people discuss webRTC API issues in a Bof style, with summaries fed back to the W3C WG
 - organize a physical meetup on the side of an existing webRTC related conference or event, with hot button topics fed back to the W3C WG
 
-### What do?
+### What can you do to help?
+- tell me how to get markdown to render the pretty diagrams on github pages!
 - file PRs to improve this site
 - become an admin for this github organization
 - comment on the ideas above
