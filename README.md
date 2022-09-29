@@ -48,7 +48,7 @@ We think that contributions/meetings should be held under Chatham House rules (o
 - contact me for an off the record informal chat 
 
 
-{%- if content contains 'mermaid' -%}
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 <script>
 const config = {
@@ -62,4 +62,4 @@ const config = {
 mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
-{% endif %}
+
