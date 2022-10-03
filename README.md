@@ -21,15 +21,15 @@ graph TD;
 
 ### Background
 This is based on a discussion had at TPAC 2022
-see https://www.w3.org/2022/09/12-webrtc-minutes.html#t04 
+see [meeting notes](https://www.w3.org/2022/09/12-webrtc-minutes.html#t04)
 
 The core thesis is that the W3C process isn't matching developer expectations so they dont't contribute
 feedback or ideas. 
 
-The idea is for https://webrtc.nu to be an impedence matching interface between developers consuming the webRTC APIs and the W3C working group that specifies them.
+The idea is for [https://webrtc.nu](https://webrtc.nu) to be an impedence matching interface between developers consuming the webRTC APIs and the W3C working group that specifies them.
 
 ### How will this work?
-TBD, but we definitely want to see an active open community form around this project - we aspire to the welcoming nature of https://pion.ly
+TBD, but we definitely want to see an active open community form around this project - we aspire to the welcoming nature of [pion's open-source community] (https://pion.ly).
 We think that contributions/meetings should be held under Chatham House rules (or something similar) 
 
 ### Some ideas
@@ -47,7 +47,7 @@ We think that contributions/meetings should be held under Chatham House rules (o
 - contact me for an off the record informal chat 
 
 ### Links
-Code of conduct : https://webrtc.nu/CoC.md
+Code of conduct : [https://webrtc.nu/CoC.md](https://webrtc.nu/CoC.md)
 
 <!-- code to render the diagrams above on the client side please retain or replace with something better --->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
