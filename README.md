@@ -46,6 +46,8 @@ We think that contributions/meetings should be held under Chatham House rules (o
 - add new ideas 
 - contact me for an off the record informal chat 
 
+### Links
+Code of conduct : https://webrtc.nu/CoC.md
 
 <!-- code to render the diagrams above on the client side please retain or replace with something better --->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
