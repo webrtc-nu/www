@@ -29,7 +29,7 @@ Our WebRTC (in-browser) javascript :
 2) occasionally rewrites SDP because suitable APIs don't exist
 3) never rewrites SDP 
 
-### Data channels on own workers
+### Data channels in WebWorkers
 Our WebRTC application:
 1) doesn't use datachannels
 2) uses data channels, but they are ok on the main thread
