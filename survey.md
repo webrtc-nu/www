@@ -13,9 +13,9 @@ your answers will be collated and presented in aggregate to a future working gro
 1) I work with the WebRTC APIs every day
 2) I regularly use the WebRTC APIs
 3) I occasionally need to use WebRTC APIs
-4) I only use WebRTC via a library - never directly to the w3c APIs
-5) I manage a team who use the webRTC APIs
-6) I never used the webRTC APIs
+4) I only use WebRTC via an SDK or library - never directly to the w3c APIs
+5) I manage a team who use the WebRTC APIs
+6) I have never used the WebRTC APIs
 
 ### Async functions in javascript APIs
 1) Async functions make life easy
@@ -24,19 +24,19 @@ your answers will be collated and presented in aggregate to a future working gro
 4) Callbacks forever
 
 ### SDP mungeing 
-Our WebRTC (in-browser) javascript :
+Your WebRTC (in-browser) javascript :
 1) rewrites SDP often
 2) occasionally rewrites SDP because suitable APIs don't exist
 3) never rewrites SDP 
 
 ### Data channels in WebWorkers
-Our WebRTC application:
+Your WebRTC application or SDK:
 1) doesn't use datachannels
-2) uses data channels, but they are ok on the main thread
+2) uses data channels on the main thread
 3) uses data channels but it would be better if they could run in their own workers.
 
 ### Learning the API
-Developers new to WebRTC find it:
+In your experience, developers new to WebRTC find it:
 1) easy to pickup
 2) complex but ok
 3) very difficult
