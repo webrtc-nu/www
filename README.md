@@ -34,7 +34,7 @@ We think that contributions/meetings should be held under Chatham House rules (o
 
 ### Some ideas
 - do a survey via the existing local WebRTC developer groups that exist world wide to help the W3C WG get a better handle on developer feeling.
-  (what questions should we ask?)
+  (what questions should we ask? - see https://webrtc.nu/survey.md for the current draft)
 - facilitate a virtual quaterly meetup where people discuss webRTC API issues in a Bof style, with summaries fed back to the W3C WG
 - organize a physical meetup on the side of an existing webRTC related conference or event, with hot button topics fed back to the W3C WG
 
