@@ -6,7 +6,7 @@
 ## Help improve the webRTC APIs -> fill out the [survey](https://forms.gle/TAyvds2vorWAJHdP6)
 ## Contribute to our [github](https://github.com/webrtc-nu/www)
 
-# Why ? 
+# Why ?
 ### Current waterfall model for standards development
 ```mermaid
 graph TD;
@@ -30,13 +30,13 @@ This is based on a discussion had at TPAC 2022
 see [meeting notes](https://www.w3.org/2022/09/12-webrtc-minutes.html#t04)
 
 The core thesis is that the W3C process isn't matching developer expectations so they dont't contribute
-feedback or ideas. 
+feedback or ideas.
 
 The idea is for [https://webrtc.nu](https://webrtc.nu) to be an impedence matching interface between developers consuming the webRTC APIs and the W3C working group that specifies them.
 
 ### How will this work?
-TBD, but we definitely want to see an active open community form around this project - we aspire to the welcoming nature of [https://pion.ly](pion's) open-source community.
-We think that contributions/meetings should be held under Chatham House rules (or something similar) 
+TBD, but we definitely want to see an active open community form around this project - we aspire to the welcoming nature of [Pion's](https://pion.ly) open-source community.
+We think that contributions/meetings should be held under Chatham House rules (or something similar)
 
 ### Some ideas
 - do a series of surveys via the existing local WebRTC developer groups that exist world wide to help the W3C WG get a better handle on developer feeling.
@@ -50,11 +50,11 @@ We think that contributions/meetings should be held under Chatham House rules (o
 - file PRs to improve this site
 - become an admin for this github organization
 - comment on the ideas above
-- add new ideas 
-- contact me for an off the record informal chat 
+- add new ideas
+- contact me for an off the record informal chat
 
 ### Links
-Code of conduct : [https://webrtc.nu/CoC.md](https://webrtc.nu/CoC.md)
+Code of conduct: [https://webrtc.nu/CoC](https://webrtc.nu/CoC)
 
 <!-- code to render the diagrams above on the client side please retain or replace with something better --->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
