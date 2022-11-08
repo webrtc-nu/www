@@ -1,6 +1,12 @@
 # WebRTC Network of Users.
 ## A loose grouping of WebRTC developers who give input/feedback to the w3c WebRTC working group.
 
+# Actions:
+
+## Help improve the webRTC APIs -> fill out the [survey](https://forms.gle/TAyvds2vorWAJHdP6)
+## Contribute to our [github](https://github.com/webrtc-nu/www)
+
+# Why ? 
 ### Current waterfall model for standards development
 ```mermaid
 graph TD;
@@ -33,10 +39,11 @@ TBD, but we definitely want to see an active open community form around this pro
 We think that contributions/meetings should be held under Chatham House rules (or something similar) 
 
 ### Some ideas
-- do a survey via the existing local WebRTC developer groups that exist world wide to help the W3C WG get a better handle on developer feeling.
-  (what questions should we ask? - see the current [https://webrtc.nu/survey.md](draft).
+- do a series of surveys via the existing local WebRTC developer groups that exist world wide to help the W3C WG get a better handle on developer feeling.
+  First pass is in actions above.
 - facilitate a virtual quaterly meetup where people discuss webRTC API issues in a Bof style, with summaries fed back to the W3C WG
 - organize a physical meetup on the side of an existing webRTC related conference or event, with hot button topics fed back to the W3C WG
+- support PoC or prototyping new APIs ontop of existing WebRTC stacks
 
 ### What can you do to help?
 - tell me how to get markdown to render the pretty diagrams on github pages!
